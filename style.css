@@ -395,6 +395,9 @@ footer {
         margin: 0;
         padding: 15px 10%;
     }
+    .espac {
+        padding: 13px 15px;
+    }
 }
 @media all and (max-width: 600px) {
     #titulo {
